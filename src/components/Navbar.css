@@ -4,8 +4,8 @@
     background: rgb(0, 0, 0);
     background: linear-gradient(190deg, rgba(0, 0, 0, 1) 30%, rgba(171, 170, 172, 1) 98%);
     box-sizing: border-box;
-    padding-top: 1.2em;
-    padding-bottom: 1.2em;
+    padding-top: .8em;
+    padding-bottom: .8em;
 }
 
 .navbar ul {
@@ -26,8 +26,8 @@
 }
 
 ul img {
-    width: 100px;
-    height: 60px;
+    width: 80px;
+    height: 40px;
 }
 
 .navbar button,
@@ -38,7 +38,7 @@ ul img {
 
 .navbar a {
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     text-decoration: none;
     transition: 4s;
 }
@@ -48,8 +48,8 @@ ul img {
 }
 
 .user {
-    font-size: 20px;
-    margin-right: 20px;
+    font-size: 12px;
+    margin-right: 12px;
     text-transform: capitalize;
     color: rgb(240, 133, 133);
 }
