@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.349c964a.css",
+    "main.js": "/static/js/main.d74b2003.js",
+    "static/media/money.avif": "/static/media/money.0be7353abb01a429378e.avif",
+    "static/media/cash-removebg.png": "/static/media/cash-removebg.10975404340eaa795c9f.png",
+    "static/media/money-1.avif": "/static/media/money-1.1bad6d5e463f7a38681e.avif",
+    "index.html": "/index.html",
+    "main.349c964a.css.map": "/static/css/main.349c964a.css.map",
+    "main.d74b2003.js.map": "/static/js/main.d74b2003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349c964a.css",
+    "static/js/main.d74b2003.js"
+  ]
+}
